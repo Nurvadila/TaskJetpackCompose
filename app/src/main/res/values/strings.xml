@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskJetpack</string>
+    <string name="menu_film">Film</string>
+    <string name="menu_drama">Drama</string>
+    <string name="menu_about">About</string>
+    <string name="menu_detail">Detail</string>
+</resources>
